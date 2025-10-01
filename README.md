@@ -17,19 +17,12 @@ cd stock_price_prediction
 ```bash
 pip install -r requirements.txt
 ```
-3. **Lancer l'application**
-```bash
-streamlit run app.py
-```
+
 
 ## Exemple d'interface
 
-![Aperçu de l'application](screenshot.png)
+![Aperçu de l'application](stock_prediction.png)
 
 ## Fichiers importants
-- `app.py` : Application Streamlit
 - `POWERGRID.csv` : Données historiques
 - `stock_dl_model.h5` : Modèle entraîné
-
-## Auteur
-- [Votre nom]
