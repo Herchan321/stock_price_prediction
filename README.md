@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ```
 
 
-## Exemple d'interface
+## Résultat
 
 ![Aperçu de l'application](stock_prediction.png)
 
